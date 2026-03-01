@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "node_probe": {
+      "count": 1,
+      "voters": [
+        "fb90cd148272249b"
+      ]
+    }
+  },
+  "updated_at": "2026-03-01T14:11:45Z"
+}
